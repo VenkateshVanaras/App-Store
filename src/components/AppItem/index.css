@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-list {
+  height: 200px;
+  width: 200px;
+  padding-top: 20px;
+  background-color: #ffffff;
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.app-image {
+  height: 100px;
+  background-size: cover;
+}
+.app-name {
+  margin-top: 30px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 23px;
+}
